@@ -2,7 +2,7 @@
 //we can set animation delay as following in ms (default 1000)
 ProgressBar.singleStepAnimation = 1500;
 ProgressBar.init(
-  [ 'Request Submitted',
+  [ 'Configurar Domínio',
     'Received Responses',
     'Negotiation Done',
     'Hired Professional',
